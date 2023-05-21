@@ -1,11 +1,11 @@
-<!-- #thunkx0x | #Evekon -->
+<!-- #thunkn0n | #Evekon -->
 
-## <big><b><em><mark>Намайг ErkhemBuyn гэдэг &gt;_&lt;</mark></em></b></big>
+### <big><b>( &gt;_ ) Намайг ErkhemBuyn гэдэг ( _&lt; )</b></big> ###
 
-<p align="center"><a href="https://github.com/thunkx0x">
-<img height="165" src="https://acedev003-readme-stats.vercel.app/api?username=thunkx0x&show_icons=true&theme=merko&bg_color=000000&text_color=00ff00&border_color=00ff00&title_color=00ffff" /></a>
-&nbsp;
-<a href="https://github.com/thunkx0x"><img src="https://acedev003-readme-stats.vercel.app/api/top-langs/?username=thunkx0x&layout=compact&theme=merko&border_color=00ff00&title_color=00ffff&text_color=00ff00&bg_color=000000" height="165" />
+<p align="left"><a href="https://github.com/thunkx0x">
+<img height="96" src="https://github-readme-stats.vercel.app/api?username=thunkx0x&layout=compact&show_icons=true&theme=merko&bg_color=000000&text_color=00ff00&border_color=00ff00&title_color=ff0000&border_radius=0.1&custom_title=thunkn0n+статистик!" /></a></p>
+<p align="right">
+<a href="https://github.com/thunkx0x"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunkx0x&layout=compact&theme=merko&border_color=00ff00&title_color=ff0000&text_color=00ff00&bg_color=000000&border_radius=0.1" height="86" />
 </a></p>
 
 <h2><b><em>Сайн уу?, Би бол Evekon!</em></b></h2>
